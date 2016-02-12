@@ -21,7 +21,7 @@ public class Landscape {
     public void reset() {
         agents.clear();
     }
-
+ 
     // modify to round
     public int getRows() {
         return (int)(height + 0.5);
